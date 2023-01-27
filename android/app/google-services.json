@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300078683952",
+    "project_id": "forfoodie-8aea1",
+    "storage_bucket": "forfoodie-8aea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300078683952:android:0c7116be5510e56703daf5",
+        "android_client_info": {
+          "package_name": "com.example.forfoodie.forfoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300078683952-gfahk5pj7j5nb9qgdnpk71jbr7kolgbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forfoodie.forfoodie",
+            "certificate_hash": "a51e56505e4ca66d6d80def09d25ca6c156f47fb"
+          }
+        },
+        {
+          "client_id": "300078683952-dkceoeqtn9gm0bf7lqqkv93ro496qluc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWzPUMM0-lO-bcBKkbgrZHtpIGnFxs7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300078683952-dkceoeqtn9gm0bf7lqqkv93ro496qluc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
